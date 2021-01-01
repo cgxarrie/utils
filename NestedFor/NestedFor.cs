@@ -1,4 +1,4 @@
-﻿namespace NestedFor
+﻿namespace cgxarrie.utils.NestedFor
 {
     using System;
 

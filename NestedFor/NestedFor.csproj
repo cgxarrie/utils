@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AssemblyName>cgxarrie.NestedFor</AssemblyName>
+    <AssemblyName>cgxarrie.Utils.NestedFor</AssemblyName>
     <RootNamespace>cgxarrie.NestedFor</RootNamespace>
   </PropertyGroup>
 
